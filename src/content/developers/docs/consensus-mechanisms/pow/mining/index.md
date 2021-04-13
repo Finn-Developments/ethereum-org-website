@@ -41,6 +41,11 @@ In decentralized systems like Ethereum, we need to ensure that everyone agrees o
 
 Every transaction is mined (included in a new block and propagated for the first time) once, but executed and verified by every participant in the process of advancing the canonical EVM state. This highlights one of the central mantras of blockchain: **Don’t trust, verify**.
 
+## How you can mine Ethereum {#How-you-can-mine-Ethereum}
+
+- Hardware: In order to mine Ethereum you need a computer, generally for efficent mineing you need CPU, GPU or ASIC, or you can rent out someone elses hardware.
+- Kinds of mining: Mining Alone: mining alone is difficult because you are competing against a lot of other people to solve problems so you need a lot of good hardware which is pretty expensive. Pool Mining: Pool mining involves using your computer as part of a group, some downsides are that mining pools charge fees and a miniun anount of money you have to earn to collect it. Cloud mining: as we said earlier you can rent someone elses hardware, this is cloud mining, an advantage of cloud mining is that you do not have to deal with hardware breakdowns or maintence, some disadvantages are that you lose some control over what your hardware is doing.
+
 ## A visual demo {#a-visual-demo}
 
 Watch Austin walk you through mining and the proof-of-work blockchain.
@@ -51,6 +56,7 @@ Watch Austin walk you through mining and the proof-of-work blockchain.
 
 - [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) _EthHub_
 - [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) _Coindesk_
+
 
 ## Related Tools {#related-tools}
 
